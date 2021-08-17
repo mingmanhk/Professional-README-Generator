@@ -38,6 +38,7 @@ Victor Lam
     -Added validation check if enter wrong value
     -Added Optional questions
     -Auto generate table of content based on user entry
+    -Support add screenshot to usage section
 ## Test
 
 Expected output result:
