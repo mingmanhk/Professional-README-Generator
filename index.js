@@ -108,7 +108,7 @@ const questions = () => {
             {
                 type: 'input',
                 name: 'test',
-                message: 'Provide examples on how to run.? (Optional)',
+                message: 'Provide examples on how to run the test script.? (Optional)',
             },
             //Contact Methods
             // Github Username
