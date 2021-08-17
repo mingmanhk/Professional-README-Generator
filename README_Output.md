@@ -1,3 +1,4 @@
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 # Professional README Generator
 ## Description
 This is a program that can generate a high-quality README using a command line. When the program run, it will prompt the user to answer a list of the question. Then, the program will genrate README markdown file to README_Output.md

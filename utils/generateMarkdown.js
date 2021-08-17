@@ -1,7 +1,8 @@
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 function generateMarkdown(data) {
   //add Project name + Description + Table of content
-  let readme_output = `# ${data.projecttitle}
+  let readme_output = `[![license](https://img.shields.io/badge/license-${data.license}-blue)](https://shields.io)
+# ${ data.projecttitle }
 ## Description
 ${data.description}
 ## Table of Contents`;
