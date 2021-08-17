@@ -38,8 +38,8 @@ ${data.usage}
 `;
   // Screenshot (Optional)
   if (data.screenshot) readme_output = readme_output + `
-## Screenshot
-${data.screenshot}`;
+${data.screenshot}
+`;
 
   //add license
   readme_output = readme_output + `
