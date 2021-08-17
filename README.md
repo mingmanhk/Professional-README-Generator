@@ -17,7 +17,9 @@ Repository:
 
 5. [Features](#features)
 
-6. [Questions](#questions)
+6. [Test](#test)
+
+7. [Questions](#questions)
 
 ## Installation
 To run this program required inquirer and util.
@@ -36,6 +38,12 @@ Victor Lam
     -Added validation check if enter wrong value
     -Added Optional questions
     -Auto generate table of content based on user entry
+## Test
+
+Expected output result:
+
+<img src="assets/output.jpg"/>
+
 ## Questions
 Questions about this repository? Please contact me at [mingmanhk@gmail.com](mailto:mingmanhk@gmail.com).
 View more of my work in GitHub at [mingmanhk](https://github.com/mingmanhk)
