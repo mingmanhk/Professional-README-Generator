@@ -1,7 +1,7 @@
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
-# Professional README Generator
+[![license](https://img.shields.io/badge/license-Apache-blue)](https://shields.io)
+# 1
 ## Description
-This is a program that can generate a high-quality README using a command line. When the program run, it will prompt the user to answer a list of the question. Then, the program will genrate README markdown file to README_Output.md
+2
 ## Table of Contents
 1. [Installation](#installation)
 
@@ -13,21 +13,29 @@ This is a program that can generate a high-quality README using a command line. 
 
 5. [Features](#features)
 
-6. [Questions](#questions)
+6. [Contribute](#contribute)
+
+7. [Test](#test)
+
+8. [Questions](#questions)
 
 ## Installation
-To run this program required inquirer and util.
+3
 ## Usage
-Type 'node index.js'
+4
 
-<img src="assets/video.gif"/>
+<img src="5"/>
 
 ## Credits
-Victor Lam
+6
 ## License
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-Apache-blue)](https://shields.io)
 ## Features
--Added validation check if enter wrong value
+7
+## Contribute
+8
+## Test
+9
 ## Questions
-Questions about this repository? Please contact me at [mingmanhk@gmail.com](mailto:mingmanhk@gmail.com).
-View more of my work in GitHub at [mingmanhk](https://github.com/mingmanhk)
+Questions about this repository? Please contact me at [11](mailto:11).
+View more of my work in GitHub at [10](https://github.com/10)
