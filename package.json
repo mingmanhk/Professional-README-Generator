@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["professiona;","readme","generator"],
+  "author": "Victor Lam",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.1.2",
     "util": "^0.12.4"
